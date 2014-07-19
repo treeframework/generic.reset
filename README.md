@@ -1,8 +1,14 @@
 #Reset
 
-The `reset` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[generic.reset] (https://github.com/inuitcss/generic.reset) <q>considered approach
-to resetting elements. It selectively removes margins and paddings from certain elements, and provides
-some sensible defaults for some others</q>.
+The `reset` module is considered approach to resetting elements. It selectively
+removes margins and paddings from certain elements, and provides some sensible
+defaults for some others.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-reset
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
