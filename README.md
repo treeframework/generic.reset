@@ -6,7 +6,15 @@ defaults for some others.
 
 Install using Bower:
 
-    $ bower install --save tree-reset
+```sh
+$ bower install tree-reset --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-reset --save
+```
 
 ## Credits
 
