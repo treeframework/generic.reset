@@ -1,11 +1,18 @@
-// *************************************
+// =============================================================================
 //
-//   #RESET
+// Name:          Reset
 //
-// *************************************
+// Description:   Basic reset to complement normalize.css.
+//
+// =============================================================================
+
+
+
+
 
 // As well as using normalize.css, it is often advantageous to remove all
 // margins from certain elements.
+
 body,
 
 h1,
@@ -45,6 +52,7 @@ caption {
 
 
 // Give a help cursor to elements that give extra info on `:hover`.
+
 abbr[title],
 dfn[title] {
     cursor: help;
@@ -55,6 +63,7 @@ dfn[title] {
 
 
 // Remove underlines from potentially troublesome elements.
+
 u,
 ins {
     text-decoration: none;
@@ -65,6 +74,7 @@ ins {
 
 
 // Apply faux underlines to inserted text via `border-bottom`.
+
 ins {
     border-bottom: 1px solid;
 }
